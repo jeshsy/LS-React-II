@@ -1,0 +1,65 @@
+.like {
+  height: 5%;
+  width: 5%;
+  margin-right: 3%;
+}
+
+.icon {
+  text-align: left;
+}
+
+.bubble {
+  height: 5%;
+  width: 5%;
+  margin: auto;
+}
+
+.commentUsername {
+  float: left;
+  margin-right: 5px;
+  font-weight: bold;
+
+}
+
+/*.commentContainer {
+  margin-bottom: 5px;
+}*/
+
+/*.comment {
+  float: left;
+}*/
+
+.image {
+  display: block;
+  margin-right: auto;
+}
+
+.likeNumber {
+  text-align: left;
+  margin: 5px 0px 5px 0px;
+}
+
+.timestamp {
+  text-align: left;
+
+}
+
+.addComment {
+  display: block;
+  margin-right: auto;
+  width: 80%;
+}
+
+.thumbnail {
+  float: left;
+  width: 5%;
+  height: 5%;
+}
+
+.thumbnailUser {
+  float: left;
+}
+
+.Post {
+  margin-bottom: 5%;
+}
